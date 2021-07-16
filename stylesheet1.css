@@ -27,3 +27,10 @@ ul {
   li a:hover {
     background-color: #111;
   }
+  @media only screen and (max-width: 620px) {
+    
+    .menu, .main, .right {
+      width: 100%;
+    }
+  }
+  
