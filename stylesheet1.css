@@ -37,8 +37,3 @@ ul {
 [class*="col-"] {
   width: 100%;
 }
-.p {
-max-height: auto;
-max-width: auto;
-overflow:auto;
-}
