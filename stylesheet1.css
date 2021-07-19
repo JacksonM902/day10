@@ -44,3 +44,8 @@ ul {
     width: 100%;
   }
 }
+
+@media screen and (max-width: 800px) {
+  .left, .main, .right {
+    width: 100%;
+  }
