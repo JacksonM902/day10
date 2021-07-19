@@ -37,7 +37,7 @@ ul {
 [class*="col-"] {
   width: 100%;
 }
-body{
+.body{
   min-width:300px;       
   width:1000px;          
 }
